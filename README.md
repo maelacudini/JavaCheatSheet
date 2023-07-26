@@ -1,2 +1,2 @@
-# Java_cheat_sheet
+# JavaCheatSheet
 This is a simple cheat sheet on the main topics of Java
